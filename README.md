@@ -23,3 +23,8 @@ Digits:	[4,1,9,4,5,6,0,3,8,5,0,0,8,5,0,5]
 Double Every Other:	[8,1,18,4,10,6,0,3,16,5,0,0,16,5,0,5]
 Subtract: [9,8,1,9,4,1,6,0,3,7,5,0,0,7,5,0,5]
 Sum of the Digits: 61. Is not divisible by 10. Invalid!
+
+To Be Completed:
+
+Write a method to determine if a credit card number is valid
+Use the tests to make sure your solution is working
